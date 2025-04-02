@@ -62,7 +62,7 @@ Obs:
 Para cenário utilizando Terraform e Ansible, posso compartilhar outro projeto que estou finalizando e o link será disponibilizado em breve.
 
 
-# Comandos Utilizados para deploy do Projeto:
+## Comandos Utilizados para deploy do Projeto:
 Favor checar em Comando utilizados.md
 
 ## Evidências da Solução
@@ -70,6 +70,12 @@ Favor checar em Evidências.md
 
 ## Plano Orçamentário FinOps
 Favor checar em Plano Orçamentário.md
+
+# Autor
+Arlindo Ferreira da Silva Ramos
+
+https://www.linkedin.com/in/arlindo-ramos/
+
 
 
 
