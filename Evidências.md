@@ -27,6 +27,10 @@
 # Disaster Recovery
 ![image](https://github.com/user-attachments/assets/0319b4a7-9ee1-4433-a7c6-17363cb3f628)
 
+# Storage Solution
+![image](https://github.com/user-attachments/assets/0d8d3f47-6a3d-4616-9c98-8293da8d296c)
+
+
 
 
 
