@@ -153,3 +153,9 @@ Max: **4**
 Fleet composition: **(*) On-Demand instances**
 
 Instance types: **t3.micro**
+
+**Scaling triggers**
+
+Metric: **CPUUtilization**
+
+Unit: **Percent**
