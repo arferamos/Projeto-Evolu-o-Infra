@@ -42,7 +42,7 @@ https://d2ld81zfdsa2r6.cloudfront.net/
 ![image](https://github.com/user-attachments/assets/cf901214-2ddc-4d1d-9349-f10214695bec)
 
 # Reunião de Arquitetura:
-Pontos de melhorias e considerações a serem discutidas em reunião de arquitetura e preparação para a reunião executiva para realizar a defesa do projeto tanto para a parte financeira P.O quanto para opções tecnológicas. favor checar em Considerações:
+Pontos de melhorias e considerações a serem discutidos em reunião de arquitetura e preparação para a reunião executiva para realizar a defesa do projeto tanto para a parte financeira P.O quanto para opções tecnológicas. favor checar em Considerações:
 
 
 ## Para o Cenário On-Premises, podemos considerar como evolução a aplicação rodando em Kubernetes em cluster segregado sendo orquestrado pelo Rancher:
