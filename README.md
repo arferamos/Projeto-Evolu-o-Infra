@@ -45,7 +45,7 @@ https://d2ld81zfdsa2r6.cloudfront.net/
 Pontos de melhorias e considerações a serem discutidos em reunião de arquitetura e preparação para a reunião executiva para realizar a defesa do projeto tanto para a parte financeira P.O e RFP quanto para opções tecnológicas.
 
 
-## Para o Cenário On-Premises, podemos considerar como evolução a aplicação rodando em Kubernetes em cluster segregado sendo orquestrado pelo Rancher:
+## Como opção, utilizando nossos Datacenters em ambiente on-premises, podemos considerar como evolução a aplicação rodando em Kubernetes em cluster segregado sendo orquestrado pelo Rancher:
 ![Cluster Segregado](https://github.com/user-attachments/assets/c3d88cec-49f1-4d34-9d71-9420582d124c)
 
 
