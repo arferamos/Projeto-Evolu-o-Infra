@@ -49,13 +49,10 @@ Pontos de melhorias e considerações a serem discutidos em reunião de arquitet
 ![Cluster Segregado](https://github.com/user-attachments/assets/c3d88cec-49f1-4d34-9d71-9420582d124c)
 
 
-## Storage H.A com GFS sendo utilizado a solução Huawei, Dell ou Hitachi na qual tenho experiência nas 3 soluções:
-![image](https://github.com/user-attachments/assets/489b75e4-6ff3-402c-b875-64a7f6d2c4a8)
-
+## Storage H.A com GFS sendo utilizado a solução Huawei, Dell ou Hitachi Vantara na qual tenho experiência nas 3 soluções:
 ![image](https://github.com/user-attachments/assets/f5404b7f-7882-40ec-ad6f-d0350ec23efb)
 
-
-Obs: Nas soluções desses players, é possível tambem utilizar NAS para file server e Object Storage com SDS
+Obs: Nas soluções para storage desses players, é possível tambem utilizar NAS para file server e Object Storage com SDS
 
 ## Disaster Recovery
 Disaster Recovery plan com link dedicado utilizando mpls, fiber channel com raio de até 300km entre Datacenters On-premises.
