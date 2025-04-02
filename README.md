@@ -58,7 +58,7 @@ Obs: Nas soluções desses players, é possível tambem utilizar NAS para file s
 Solução em H.A com link dedicado utilizando mpls, fiber channel com raio de até 300km entre Datacenters On-premises.
 ![image](https://github.com/user-attachments/assets/b638da32-2375-41a2-a859-7e3d24283741)
 
-# Datacenter On-premises é importante checar o raio entre os DCs, Backbone, Tier 1,2,3,ou 4 etc...
+# Datacenter On-premises é importante checar o raio entre os DCs, Backbone, Tier 1,2,3,ou 4 também qual o tipo de conexão se é utilizando VPN, Fast Connect, Link Dedicado entre on-premises e cloud etc...
 
 
 
