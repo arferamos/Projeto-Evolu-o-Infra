@@ -21,6 +21,10 @@
 # Instâncias EC2 em H.A
 ![image](https://github.com/user-attachments/assets/17585381-c61c-45f6-b31e-3d2b38d65741)
 
+# Stress em CPU para realizar o escalonamento horizontal
+![image](https://github.com/user-attachments/assets/e7097dd4-f9b6-4434-b126-555bf59ab925)
+
+
 
 
 
