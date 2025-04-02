@@ -24,6 +24,10 @@
 # Stress em CPU para realizar o escalonamento horizontal
 ![image](https://github.com/user-attachments/assets/e7097dd4-f9b6-4434-b126-555bf59ab925)
 
+# Disaster REcovery plan
+![image](https://github.com/user-attachments/assets/0319b4a7-9ee1-4433-a7c6-17363cb3f628)
+
+
 
 
 
