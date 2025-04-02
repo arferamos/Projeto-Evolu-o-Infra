@@ -32,11 +32,14 @@ Obs:
 Na implementação desse projeto é crucial que a solução possa escalar tanto a infraestrutura quanto a aplicação e para isso será utilizado o AWS Elastic Beanstalk, que fará o deploy 100% automatizado.
 Será utilizado o DynamoDB para armazenamento de arquivos e para esse projeto será utilizado como exemplo o cadastro de emails e também será utilizado o serviço de entrega de conteúdo, CloudFront para fazer o caching dos arquivos estáticos e dinâmicos em uma Edge Location mais próxima do usuário.
 
-## Link do Projeto:
-https://d2ld81zfdsa2r6.cloudfront.net/
-
 ## Desenho de arquitetura To-be:
 ![image](https://github.com/user-attachments/assets/26e656c8-812a-42f1-8339-a4e00d57dfac)
+
+## Layout do Projeto
+![image](https://github.com/user-attachments/assets/cf901214-2ddc-4d1d-9349-f10214695bec)
+
+## Link do Projeto:
+https://d2ld81zfdsa2r6.cloudfront.net/
 
 # Reunião de Arquitetura:
 Pontos de melhorias e considerações a serem discutidas em reunião de arquitetura e preparação para a reunião executiva para realizar a defesa do projeto tanto para a parte financeira P.O quanto para opções tecnológicas. favor checar em Considerações:
