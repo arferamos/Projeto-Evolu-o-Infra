@@ -1,4 +1,6 @@
 # Projeto Evolução Infraestrutura
+https://github.com/arferamos/Projeto-Evolu-o-Infra/blob/main/LICENSE
+
 ## Cenário
 Nesse projeto, está sendo realizado a migração de um workload rodando em um “Data Center Corporativo (On-Premises)” para dentro da AWS. Mais especificamente, o objetivo é migrar a aplicação e o banco de dados dessa aplicação, para dentro da AWS. Na arquitetura da AWS será necessário implementar a VPC, juntamente com suas subnets, as instâncias EC2 irão armazenar a aplicação e o DynamoDB para o banco de dados.
 
