@@ -1,5 +1,6 @@
 # FinOps
 ## Plano Financeiro de Investimento para os próximos 5 anos
-![image](https://github.com/user-attachments/assets/4c0a3d46-d260-4840-a574-53c69e712f74)
+![image](https://github.com/user-attachments/assets/07a82b0a-b354-4a36-bd1d-696ebe3a6c9a)
+
 
 
