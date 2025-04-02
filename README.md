@@ -52,6 +52,8 @@ Pontos de melhorias e considerações a serem discutidos em reunião de arquitet
 ## Storage H.A com GFS sendo utilizado a solução Huawei, Dell ou Hitachi na qual tenho experiência nas 3 soluções:
 ![image](https://github.com/user-attachments/assets/489b75e4-6ff3-402c-b875-64a7f6d2c4a8)
 
+Obs: Nas soluções desses players, é possível tambem utilizar NAS para file server e Object Storage com SDS
+
 ## Disastery Recovery
 Solução em H.A com link dedicado utilizando mpls, fiber channel com raio de até 300km entre Datacenters On-premises.
 ![image](https://github.com/user-attachments/assets/b638da32-2375-41a2-a859-7e3d24283741)
